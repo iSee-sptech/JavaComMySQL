@@ -32,7 +32,7 @@ public class Conexao {
 
         datasourceMySql.setDriverClassName("com.mysql.cj.jdbc.Driver");
         //datasourceMySql.setUrl("jdbc:mysql://localhost:3360/image_v3");
-        datasourceMySql.setUrl("jdbc:mysql://localhost:3360/?serverTimezone=UTC");
+        datasourceMySql.setUrl("jdbc:mysql://localhost:3360/isee?serverTimezone=UTC");
         //datasourceMySql.setUsername("root");
         datasourceMySql.setUsername("root");
         datasourceMySql.setPassword("urubu100");
