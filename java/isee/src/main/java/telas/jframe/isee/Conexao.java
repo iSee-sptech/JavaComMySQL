@@ -31,7 +31,7 @@ public class Conexao {
 
         datasourceMySql.setDriverClassName("com.mysql.cj.jdbc.Driver");
         //datasourceMySql.setUrl("jdbc:mysql://localhost:3360/image_v3");
-        datasourceMySql.setUrl("jdbc:mysql://172.17.0.2:3306/isee");
+        datasourceMySql.setUrl("jdbc:mysql://172.31.91.172:3306/isee");
         //datasourceMySql.setUsername("root");
         datasourceMySql.setUsername("root");
         datasourceMySql.setPassword("urubu100");
